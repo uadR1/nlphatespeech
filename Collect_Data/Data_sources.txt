@@ -1,0 +1,19 @@
+In this folder, we collect and join the data out of three different sources. 
+These sources are:
+    1. Implicit Hate Speech Dataset: https://github.com/SALT-NLP/implicit-hate
+        - It contains 21.414 Tweets that are classified as: no hate, implicit hate, explicit hate 
+        - Content is mainly published by hate groups and their followers on Twitter 
+        - Annotation done by Amazon Mechanical Turk annotators - Three people per tweet
+        - Details of Annotation:  https://aclanthology.org/2021.emnlp-main.29.pdf
+     
+    2. Hate Speech & Offensive Langugage Dataset: https://github.com/t-davidson/hate-speech-and-offensive-language 
+        - It contains 25.296 Tweets that are classified as: neutral, offensive langugage & hatespeech 
+        - There are some missing classifications
+        - There is also a count of people who classified the tweets - minimum is three 
+        - Also the count of people judged the tweet to be in any of the three classes is given
+        - This makes the classification very transparent  
+
+    3. Whitesupremacist hatespeech: https://github.com/Vicomtech/hate-speech-dataset
+        - It contains 10.945  entries from Whitesupremacist forums. 
+        - Imbalanced Data, since more than 9500 entries are no-hate 
+        - More Information: https://aclanthology.org/W18-51.pdf 
