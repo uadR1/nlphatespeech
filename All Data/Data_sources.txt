@@ -11,7 +11,8 @@ These sources are:
         - There are some missing classifications
         - There is also a count of people who classified the tweets - minimum is three 
         - Also the count of people judged the tweet to be in any of the three classes is given
-        - This makes the classification very transparent  
+        - This makes the classification very transparent 
+        - Paper: https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665/14843 
 
     3. Whitesupremacist hatespeech: https://github.com/Vicomtech/hate-speech-dataset
         - It contains 10.945  entries from Whitesupremacist forums. 
