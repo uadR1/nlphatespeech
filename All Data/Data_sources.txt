@@ -17,4 +17,6 @@ These sources are:
     3. Whitesupremacist hatespeech: https://github.com/Vicomtech/hate-speech-dataset
         - It contains 10.945  entries from Whitesupremacist forums. 
         - Imbalanced Data, since more than 9500 entries are no-hate 
-        - More Information: https://aclanthology.org/W18-51.pdf 
+        - More Information: https://aclanthology.org/W18-51.pdf
+
+ 
